@@ -14,3 +14,10 @@ class Lunch{
     this.soup=soup;
   }
 }
+
+class Dinner{
+  constructor (salad, soup, entree,desert)
+  {
+    this.sala=
+  }
+}
