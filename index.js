@@ -1,9 +1,9 @@
 // Write your code here
-class dog{
-  constructor (name,breed)
+class Breakfast{
+  constructor (food,drink)
   {
-   this.name=name;
-   this.breed=breed;
+   this.food=food;
+   this.drink=drink;
   }
 }
 let bigFluffyDog1 = new Dog("Buzz", "greatPyrenees");
