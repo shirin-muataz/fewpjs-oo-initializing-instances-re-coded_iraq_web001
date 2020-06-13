@@ -5,4 +5,4 @@ class dog{
    this.name=name;
    this.breed=breed;
   }
-};
+}
