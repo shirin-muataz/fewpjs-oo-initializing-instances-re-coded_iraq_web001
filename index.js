@@ -6,5 +6,11 @@ class Breakfast{
    this.drink=drink;
   }
 }
-let bigFluffyDog1 = new Dog("Buzz", "greatPyrenees");
-let bigFluffyDog2 = new Dog("Woody", "labrador");
+
+class Lunch{
+  constructor (salad,soup)
+  {
+    this.salad=salad;
+    this.soup=soup;
+  }
+}
